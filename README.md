@@ -33,9 +33,9 @@ You need to login as Admin account then create ESS user account.
 
 ### ESS user account (Data used)
 
-Username: pavan@12345
+Username: Admin
 
-Password: pavan@12345
+Password: admin123
 
 
 ## Testing tasks:
